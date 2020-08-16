@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/christian/Documents/Algorithms/Graph-modeling/main.cpp
+vector
+-
+unordered_set
+-
+queue
+-
+fstream
+-
+iostream
+-
+sstream
+-
+
